@@ -1,0 +1,5 @@
+01 * * * * /storage/dean/update_streams.sh
+31 * * * * /storage/dean/update_streams.sh
+5 7 * * * /storage/dean/update_xbmc.sh
+5 10 * * * /storage/dean/update_xbmc.sh
+02 4 * * * /storage/dean/update_xmltv.sh
